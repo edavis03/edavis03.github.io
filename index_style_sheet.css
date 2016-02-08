@@ -2,9 +2,13 @@
 
 <html>
 
-title{
+<head>
+	<link rel="index" type="html" href="index.html">
+</head>
+
+body{
 	font-family: Impact
-	text-align: center;
+	
 }
 
 </html>
