@@ -1,4 +1,8 @@
-<html
+
+body{
+	text-align: center;
+	font_family: impact;
+}
 
 h1{
 	text-align: center;
@@ -6,9 +10,3 @@ h1{
 	font_size: 18px;
 	font_weight: bold;
 }
-body{
-	text-align: center;
-	font_family: impact;
-}
- </html>
- 
