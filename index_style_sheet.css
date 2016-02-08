@@ -2,6 +2,9 @@
 
 <html>
 
+body {
+	text-align: center;
+}
 
 h1 {
 	font-family: Impact;
@@ -17,13 +20,6 @@ h2 {
 	font_weith: bold;
 }
 
-body {
-	text-align: center;
-}
 
-title {
-	text-align: left
-	font_family: Impact;
-}
 
 </html>
