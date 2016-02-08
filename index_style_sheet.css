@@ -2,7 +2,9 @@
 
 <html>
 
-
+title {
+	text-align: left
+}
 h1 {
 	font-family: Impact;
 	font_weight: bold;
