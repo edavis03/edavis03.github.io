@@ -6,6 +6,13 @@ h1 {
 	font-family: impact;
 	font_size: 18px;
 	font_weight: bold;
+	
+}
+
+h2 {
+	font_family: impact;
+	font_size: 30px;
+	font_weith: bold;
 }
 
 body {
