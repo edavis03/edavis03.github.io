@@ -2,8 +2,12 @@
 
 <html>
 
+body {
+	text-align: center;
+}
+
 h1 {
-	font-family: Arial;
+	font-family: Impact;
 	font_weight: bold;
 	font-size: 20px;
 
@@ -16,7 +20,4 @@ h2 {
 	font_weith: bold;
 }
 
-body {
-	text-align: center;
-}
 </html>
