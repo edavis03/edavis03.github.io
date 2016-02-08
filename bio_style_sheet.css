@@ -1,12 +1,13 @@
 
 body{
 	text-align: center;
-	font_family: impact;
+	font-family: Arial;
+	font-size: 18px;
 }
 
 h1{
 	text-align: center;
 	font-family: Impact
-	font_size: 18px;
+	font_size: 40px;
 	font_weight: bold;
 }
