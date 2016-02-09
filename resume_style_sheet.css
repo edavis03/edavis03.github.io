@@ -5,7 +5,7 @@
 body { 
 	font-family: Arial;
 	font-size: 14px;
-	display: inline;
+	display: inline-block;
 }
 
 h1{ font-size: 40px;
