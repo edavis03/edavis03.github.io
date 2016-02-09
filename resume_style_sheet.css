@@ -2,7 +2,8 @@
 
 <html>
 
-span{font-weight: bold;}
+span{font-weight: bold;
+	display: block;}
 
 body { 
 	font-family: Arial;
