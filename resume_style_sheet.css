@@ -12,9 +12,11 @@ h1{ font-size: 40px;
 
 h2{ font-size: 20px;
 	text-align: center;
-	margin-top: 10px;}
+	margin-top: 10px;
+	margin-bottom: 5px;}
 
-h3 {font-size: 20px;}
+h3 {font-size: 20px;
+	margin-bottom: 5px;}
 
 
 span{font-weight: bold;
